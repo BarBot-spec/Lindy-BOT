@@ -3,7 +3,7 @@ const help = (prefix) => {
   *Instagram Follow*
  instagram.com/barxnl
  
-_*>Lindy_BOT<*_
+_*>BarXnl_BOT<*_
 
  Hi, _*undefined*_ 
  Berikut adalah fitur pada bot!
@@ -12,6 +12,8 @@ _*Fun*_
 ├ *${prefix}dare*
 ├ *${prefix}quotes*
 ├ *${prefix}hilih*
+├ *${prefix}gombalan*
+├ *${prefix}persengay*
 ├ *${prefix}alay* [text]
 ├ *${prefix}simi* [text]
 ├ *${prefix}bucin*
@@ -25,12 +27,11 @@ _*Kerang*_
 └ *${prefix}rate*
 
 _*Wibu*_
-├ *${prefix}loli* [error]
-├ *${prefix}sarananime*
-├ *${prefix}ramdomcry*
-├ *${prefix}anime*
+├ *${prefix}loli*
 ├ *${prefix}kiss*
 ├ *${prefix}peluk*
+├ *${prefix}anime*
+├ *${prefix}randomcry*
 ├ *${prefix}randomanime*
 ├ *${prefix}waifu*
 ├ *${prefix}waifu2*
@@ -41,8 +42,7 @@ _*Wibu*_
 └ *${prefix}pokemon*
 
 
-_*Nsfw Menu*_ [harom]
-├ *${prefix}codenuklir* haram ajg
+_*Nsfw Menu*_
 ├ *${prefix}hentai*
 ├ *${prefix}randomhentai*
 ├ *${prefix}nsfwblowjob*
@@ -66,7 +66,7 @@ _*Search*_
 ├ *${prefix}chord* [judul lagu]
 ├ *${prefix}wikien* [love]
 ├ *${prefix}url2img* [link]
-├ *${prefix}shorturl* [link]
+├ *${prefix}shorturl*
 ├ *${prefix}ssweb* [link]
 ├ *${prefix}fototiktok* [username]
 ├ *${prefix}map* [kota]
@@ -116,8 +116,8 @@ _*Primbon*_
 └ *${prefix}ramalhp* [082xxx]
 
 _*Others*_
-├ *${prefix}fb* [link]
-├ *${prefix}nulis* [fix]
+├ *${prefix}quran*
+├ *${prefix}nulis* [gada api]
 ├ *${prefix}ocr*
 ├ *${prefix}meme*
 ├ *${prefix}memindo*
@@ -131,6 +131,7 @@ _*Others*_
 └ *${prefix}report*
 
 _*Download*_
+├ *${prefix}fb* [link]
 ├ *${prefix}yt* [link] [fix]
 ├ *${prefix}ytmp3* [link]
 ├ *${prefix}ytmp4* [link]
